@@ -15,7 +15,7 @@ export default function Details() {
                 </Highlight>
             </Heading>
             <Text color='tomato' mt={4}>
-                <Link href="/"><u>Click Here!</u></Link>
+                <Link href="/student"><u>Back</u></Link>
             </Text>
         </Container>
 
